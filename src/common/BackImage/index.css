@@ -1,0 +1,13 @@
+.defaultBackground{
+    height: 100vh;
+    /* background: url(https://vistapointe.net/images/hotel-1.jpg) center/cover no-repeat; */
+    background: url(https://www.hotelmetdelhi.com/img/slideshow/banner1.jpg) center/cover no-repeat;
+    position: relative;
+}
+
+.roomsHero{
+    background-image: url(https://www.berjayahotel.com/sites/default/files/colombo_30.jpg);
+    background-image: url(https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg);
+    height: 100vh;
+    position: relative;
+}
